@@ -23,15 +23,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/0a4770efc93b4efc84589a80d53f9687?sid=d222dda4-0fae-49d7-8ba0-f223d66c9769' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![[seamonster.gif]]
+<img src='seamonster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-GIF created with ...  
-<!-- 
-[Loom](https://www.loom.com/) -->
+GIF created with ...   
+[Chrome Capure](https://chromewebstore.google.com/detail/chrome-capture-screenshot/ggaabchcecdbomdcnbahdfddfikjmphe?hl=en) 
 
 ## Notes
 
